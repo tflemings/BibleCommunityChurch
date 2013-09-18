@@ -1,0 +1,64 @@
+/* 
+    Document   : style
+    Created on : Sep 17, 2013, 10:49:57 PM
+    Author     : tonyf_000
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+html body{
+    padding: 0;
+    font-size: 62.5%;
+    margin: 0;
+    font-family: 'Rokkitt', serif;
+    color: #140029;
+    background-color: #E3E1D2;
+}
+
+#header{
+    background-color: #263344;
+    height: 2em;
+    margin: 0;
+    width: 100%;
+}
+
+#mid{
+    background-color: #263344;
+    height: 50em;
+    font-size: 1.4em;
+    margin: 5em auto auto auto;
+    width: 100em;
+    
+}
+
+#nav{
+    
+    width: 100em;
+    margin: auto;
+    font-size: 1.4em;
+    padding: 0;
+    
+}
+
+#nav button{
+    width: 6em;
+    height: 3em;
+    font-size: 1em;
+    margin: 0;
+    border: none;
+    background-color: #E3E1D2;
+    color: #263344;
+    font-weight: bold;
+}
+
+#nav button:hover{
+    background-color: #263344;
+    color: #E3E1D2;
+}
+
+
+
